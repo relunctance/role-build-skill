@@ -1,0 +1,10 @@
+{
+  "name": "role-build-skill",
+  "version": "1.0.0",
+  "description": "专家角色构建器 — 分析专家领域与问题，评估并安装所需 skills，在 exp-roles 中注册角色，更新 gql-skills 索引",
+  "author": "relunctance",
+  "homepage": "https://github.com/relunctance/role-build-skill",
+  "repository": "https://github.com/relunctance/role-build-skill",
+  "license": "MIT",
+  "skills": "./"
+}
