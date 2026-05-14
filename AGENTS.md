@@ -14,7 +14,7 @@
 
 ## 关键路径
 
-- exp-roles 仓库：`~/repos/exp-roles`
-- gql-skills 仓库：`~/repos/gql-skills`
-- find-skills skill：`~/repos/find-skills/SKILL.md`
-- skill-created skill：`~/repos/skill-created/SKILL.md`
+- exp-roles 仓库：https://github.com/relunctance/exp-roles
+- gql-skills 仓库：https://github.com/relunctance/gql-skills
+- find-skills skill：https://github.com/relunctance/find-skills/SKILL.md
+- skill-created skill：https://github.com/relunctance/skill-created/SKILL.md

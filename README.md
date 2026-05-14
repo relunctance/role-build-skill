@@ -36,10 +36,10 @@
 
 | 仓库 | 路径 |
 |------|------|
-| exp-roles | `~/repos/exp-roles` |
-| gql-skills | `~/repos/gql-skills` |
-| find-skills | `~/repos/find-skills/SKILL.md` |
-| skill-created | `~/repos/skill-created/SKILL.md` |
+| exp-roles | https://github.com/relunctance/exp-roles |
+| gql-skills | https://github.com/relunctance/gql-skills |
+| find-skills | https://github.com/relunctance/find-skills/SKILL.md |
+| skill-created | https://github.com/relunctance/skill-created/SKILL.md |
 
 ## 执行步骤
 
