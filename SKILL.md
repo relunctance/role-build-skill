@@ -1,25 +1,22 @@
 ---
 name: role-build-skill
-description: 专家角色构建器 — 分析专家领域与问题，评估并安装所需 skills，在 exp-roles 中注册角色，更新 gql-skills 索引
-triggers:
-  - 创建专家角色
-  - 构建一个新专家
-  - 新建角色
-  - 创建一个角色
-  - 需要一个专家
-  - 添加专家角色
-category: Infrastructure
-author: relunctance
-created: 2026-05-15
-updated: 2026-05-15
+description: 当需要创建专家角色时使用。分析专家领域与问题，用 find-skills 搜索合适 skills，在 exp-roles 注册角色，更新 gql-skills 索引
 version: "1.0.0"
+author: relunctance
+license: MIT
+category: Infrastructure
 tags:
   - role
   - expert
   - exp-roles
   - skill-installation
-platforms:
-  all: true
+metadata:
+  hermes:
+    platforms:
+      claude_code: true
+      openclaw: true
+      hermes: true
+    related_skills: [find-skills, skill-created, exp-roles]
 ---
 
 # role-build-skill

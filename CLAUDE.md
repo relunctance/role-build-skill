@@ -4,7 +4,7 @@
 
 ## Key Paths
 
-- exp-roles: `/home/gql/repos/exp-roles`
-- gql-skills: `/home/gql/repos/gql-skills`
-- find-skills: `/home/gql/repos/find-skills/SKILL.md`
-- skill-created: `/home/gql/repos/skill-created/SKILL.md`
+- exp-roles: `~/repos/exp-roles`
+- gql-skills: `~/repos/gql-skills`
+- find-skills: `~/repos/find-skills/SKILL.md`
+- skill-created: `~/repos/skill-created/SKILL.md`
