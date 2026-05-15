@@ -86,12 +86,18 @@ python3 validators/validate_role.py roles/{role-name}
 
 ## 安装
 
+使用仓库自带的 setup.sh（自动适配克隆路径）：
+
 ```bash
-# Hermes
+git clone https://github.com/relunctance/role-build-skill.git
+cd role-build-skill
+bash scripts/setup.sh
+```
+
+或手动符号链接（需确认路径）：
+
+```bash
+# 请根据实际克隆路径修改 ~/repos/ 部分
 mkdir -p ~/.hermes/skills/role-build-skill
 ln -sf ~/repos/role-build-skill/SKILL.md ~/.hermes/skills/role-build-skill/SKILL.md
-
-# Claude Code
-mkdir -p ~/claude/skills/role-build-skill
-ln -sf ~/repos/role-build-skill/SKILL.md ~/claude/skills/role-build-skill/SKILL.md
 ```
